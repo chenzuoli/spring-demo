@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 /**
- * company: 金山办公软件股份有限公司
+ * company: wetech
  * user: chenzuolil
  * date: 2018/11/14 20:53
  * description:

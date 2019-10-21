@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.ModelAndView;
 
 /**
- * company: 金山办公软件股份有限公司
- * user: CHENZUOLI
+ * company: wetech
+ * user: chenzuoli
  * date: 2018/11/24 8:35
  * description:
  */

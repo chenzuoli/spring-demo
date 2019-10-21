@@ -10,7 +10,7 @@ import javax.persistence.Id;
 import javax.persistence.Table;
 
 /**
- * company: 金山办公软件股份有限公司
+ * company: wetech
  * user: chenzuoli
  * date: 2018/11/13 20:48
  * description: 实体类user

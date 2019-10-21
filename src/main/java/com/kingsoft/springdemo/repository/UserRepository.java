@@ -5,7 +5,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
 /**
- * company: 金山办公软件股份有限公司
+ * company: wetech
  * user: chenzuoli
  * date: 2018/11/13 21:20
  * description:
