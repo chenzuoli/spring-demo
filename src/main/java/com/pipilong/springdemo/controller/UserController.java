@@ -1,7 +1,7 @@
-package com.kingsoft.springdemo.controller;
+package com.pipilong.springdemo.controller;
 
-import com.kingsoft.springdemo.entity.User;
-import com.kingsoft.springdemo.service.UserService;
+import com.pipilong.springdemo.entity.User;
+import com.pipilong.springdemo.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.web.bind.annotation.*;

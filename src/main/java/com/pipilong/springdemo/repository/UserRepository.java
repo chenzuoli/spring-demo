@@ -1,6 +1,6 @@
-package com.kingsoft.springdemo.repository;
+package com.pipilong.springdemo.repository;
 
-import com.kingsoft.springdemo.entity.User;
+import com.pipilong.springdemo.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

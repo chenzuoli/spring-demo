@@ -1,6 +1,6 @@
-package com.kingsoft.springdemo.service;
+package com.pipilong.springdemo.service;
 
-import com.kingsoft.springdemo.entity.User;
+import com.pipilong.springdemo.entity.User;
 
 /**
  * company: wetech

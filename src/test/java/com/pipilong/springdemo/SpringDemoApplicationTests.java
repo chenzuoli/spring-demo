@@ -1,4 +1,4 @@
-package com.kingsoft.springdemo;
+package com.pipilong.springdemo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

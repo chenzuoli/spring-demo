@@ -1,4 +1,4 @@
-package com.kingsoft.springdemo.controller;
+package com.pipilong.springdemo.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;

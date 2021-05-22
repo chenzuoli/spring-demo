@@ -1,7 +1,7 @@
-package com.kingsoft.springdemo.service;
+package com.pipilong.springdemo.service;
 
-import com.kingsoft.springdemo.entity.User;
-import com.kingsoft.springdemo.repository.UserRepository;
+import com.pipilong.springdemo.entity.User;
+import com.pipilong.springdemo.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

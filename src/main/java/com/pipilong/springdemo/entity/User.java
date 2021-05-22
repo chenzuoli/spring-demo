@@ -1,4 +1,4 @@
-package com.kingsoft.springdemo.entity;
+package com.pipilong.springdemo.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
